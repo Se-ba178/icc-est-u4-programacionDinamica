@@ -120,3 +120,9 @@ En esta practica creamos algunos metodos que nos van a permitir poder realizar l
 
 ## Practica 
 fecha : 15/7/2026
+
+En esta practica hicismos un codigo para poder ver la ruta de un mapa y poderlo poner de una forma q sea muy visiblememnte
+
+## Salida de consola 
+![alt text](image.png)
+
