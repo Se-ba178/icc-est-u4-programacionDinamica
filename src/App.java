@@ -1,12 +1,22 @@
+import javax.print.attribute.standard.MediaSize;
 
 public class App {
     public static void main(String[] args) throws Exception {
         // runFibonnaci();
         // runFibonnaciRecursivoPD();
         // runFibonacciTres();
-        runFibonacciIterativoPractica();
+        // runFibonacciIterativoPractica();
+        runLaberinto();
+        
 
     }
+
+
+    private static void runLaberinto() {
+        Maze memo = new Maze();
+        System.out.println(memo);
+    }
+
 
     private static void runFibonacciIterativoPractica() {
         long startTime = System.nanoTime();

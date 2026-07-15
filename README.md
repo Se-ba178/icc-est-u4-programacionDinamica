@@ -118,3 +118,5 @@ Nombre : Christian Sebastian Villa Morales
 ```
 En esta practica creamos algunos metodos que nos van a permitir poder realizar la suma de fibonacci pero aplicando programacion dinamica osea dividiendolo en problemas mas pequeños para de ahi solo quedarnos con el calculo ademas de practicar de como bajar la complejidad de un codigo de O(n) a O(1) lo cual va a servir para el examen despues y para otrps ejericios de la practica del dia de mañana 
 
+## Practica 
+fecha : 15/7/2026
